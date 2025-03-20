@@ -292,7 +292,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.2 Temporal Analysis Dashboard (Fig.2)**
 
-![temporal_analysis.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/26b6f22a-5f16-4f25-9818-2da4599a1bfc/temporal_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F26b6f22a-5f16-4f25-9818-2da4599a1bfc%2Ftemporal_analysis.png?table=block&id=e87c5462-3d4d-430c-9ff7-4e231346710b&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
+![temporal_analysis.png]()
 
 - **Visuals**: Line graphs, bar charts, temporal histograms.
 - **Key Insights**:
@@ -306,7 +306,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.3 Resilience Analysis Dashboard (Fig.3)**
 
-![resilience_analysis.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/90a72115-94b6-46b2-9aa9-3c48daf020a4/resilience_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F90a72115-94b6-46b2-9aa9-3c48daf020a4%2Fresilience_analysis.png?table=block&id=eee9d8b7-587b-425a-a47c-3dd276ae04c8&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
+![resilience_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F26b6f22a-5f16-4f25-9818-2da4599a1bfc%2Ftemporal_analysis.png?table=block&id=e87c5462-3d4d-430c-9ff7-4e231346710b&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 - **Visuals**: Radar charts, boxplots, and gauge charts.
 - **Key Insights**:
@@ -319,7 +319,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.4 Geographical Analysis Dashboard (Fig.4)**
 
-![geographical_analysis.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/3017f2c6-43f8-4c8c-8c8a-99e0d5bccbc6/geographical_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F3017f2c6-43f8-4c8c-8c8a-99e0d5bccbc6%2Fgeographical_analysis.png?table=block&id=2552277f-9d6c-4328-91c8-7300fabcc915&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
+![geographical_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F3017f2c6-43f8-4c8c-8c8a-99e0d5bccbc6%2Fgeographical_analysis.png?table=block&id=2552277f-9d6c-4328-91c8-7300fabcc915&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 - **Visuals**: Geospatial maps and vulnerability indices.
 - **Key Insights**:
@@ -337,7 +337,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.5 Migration Flow Map (Fig.5)**
 
-![Expected_migration_path.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/b03ce0c9-f449-45e4-8729-c913b8064a3f/Expected_migration_path.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fb03ce0c9-f449-45e4-8729-c913b8064a3f%2FExpected_migration_path.png?table=block&id=6aba1bd1-c4d3-4192-9b9e-50c6a1948b1c&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
+![Expected_migration_path.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fb03ce0c9-f449-45e4-8729-c913b8064a3f%2FExpected_migration_path.png?table=block&id=6aba1bd1-c4d3-4192-9b9e-50c6a1948b1c&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 - **Visuals**: Flow maps with curves and markers.
 - **Key Insights**:
@@ -369,7 +369,7 @@ These settings provided a **strong foundation** for training machine learning mo
 
 ---
 
-![image.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/6f56a4af-6ff1-4e2d-a1d2-99a8ee46393b/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F6f56a4af-6ff1-4e2d-a1d2-99a8ee46393b%2Fimage.png?table=block&id=15d13d4d-bc12-80d5-a4d2-c4153bab16ab&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
+![image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F6f56a4af-6ff1-4e2d-a1d2-99a8ee46393b%2Fimage.png?table=block&id=15d13d4d-bc12-80d5-a4d2-c4153bab16ab&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 ### **1.1 Purpose of the Model**
 
