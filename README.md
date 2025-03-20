@@ -637,7 +637,7 @@ The migration route prediction model combines **RandomForestRegressor** with a *
 
 ---
 
-![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/cbfe783d-9f04-4a24-a63e-37982cef71eb/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fcbfe783d-9f04-4a24-a63e-37982cef71eb%2Fimage.png?table=block&id=15e13d4d-bc12-8064-b797-d19f3ab14855&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fcbfe783d-9f04-4a24-a63e-37982cef71eb%2Fimage.png?table=block&id=15e13d4d-bc12-8064-b797-d19f3ab14855&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 ### **3.1 System Overview**
 
@@ -687,13 +687,13 @@ The project includes a robust **web platform** designed to enhance user interact
 
 **Demo Link**: https://dips-2.replit.app/
 
-![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/ffeb749d-65d1-4dad-a210-22dec1037522/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fffeb749d-65d1-4dad-a210-22dec1037522%2Fimage.png?table=block&id=15e13d4d-bc12-8028-84fe-df64de5f188f&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fffeb749d-65d1-4dad-a210-22dec1037522%2Fimage.png?table=block&id=15e13d4d-bc12-8028-84fe-df64de5f188f&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
-![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/9e929c5d-7767-4d21-9b11-207bdceb5ae3/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F9e929c5d-7767-4d21-9b11-207bdceb5ae3%2Fimage.png?table=block&id=15e13d4d-bc12-8020-a000-c23edf5b05b3&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F9e929c5d-7767-4d21-9b11-207bdceb5ae3%2Fimage.png?table=block&id=15e13d4d-bc12-8020-a000-c23edf5b05b3&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
-![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/5996eb9c-a54c-4c07-9f02-82c04c6d51b5/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F5996eb9c-a54c-4c07-9f02-82c04c6d51b5%2Fimage.png?table=block&id=15e13d4d-bc12-802e-b64b-ca00cf312d2e&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F5996eb9c-a54c-4c07-9f02-82c04c6d51b5%2Fimage.png?table=block&id=15e13d4d-bc12-802e-b64b-ca00cf312d2e&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
-![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/0a9eadd4-afa9-4e81-a099-71f54b16e153/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F0a9eadd4-afa9-4e81-a099-71f54b16e153%2Fimage.png?table=block&id=15e13d4d-bc12-8005-87ad-eb3ec2455de9&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F0a9eadd4-afa9-4e81-a099-71f54b16e153%2Fimage.png?table=block&id=15e13d4d-bc12-8005-87ad-eb3ec2455de9&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 The web platform offers intuitive **visualization tools** to maximize user experience and accessibility.
 
