@@ -279,7 +279,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.1 Vulnerability Dashboard (Fig.1)**
 
-![vulnerability_dashboard.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F7b4fdadd-5167-4e1f-a143-d8692afc48af%2Fvulnerability_dashboard.png?table=block&id=87227198-f9ee-4bf2-ad74-808662d70a3c&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2)
+![vulnerability_dashboard.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F7b4fdadd-5167-4e1f-a143-d8692afc48af%2Fvulnerability_dashboard.png?table=block&id=87227198-f9ee-4bf2-ad74-808662d70a3c&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 - **Visuals**: Pie charts, bar graphs, histograms.
 - **Key Insights**:
@@ -292,7 +292,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.2 Temporal Analysis Dashboard (Fig.2)**
 
-![temporal_analysis.png]()
+![temporal_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F26b6f22a-5f16-4f25-9818-2da4599a1bfc%2Ftemporal_analysis.png?table=block&id=e87c5462-3d4d-430c-9ff7-4e231346710b&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 - **Visuals**: Line graphs, bar charts, temporal histograms.
 - **Key Insights**:
@@ -483,19 +483,19 @@ To assess the model's predictive performance, we employed the following metrics:
 
 - **Learning Curves**: Evaluated the model's generalization performance over training iterations.
     
-    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/c05a9b36-c445-48f0-bd9b-388d2f01556e/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fc05a9b36-c445-48f0-bd9b-388d2f01556e%2Fimage.png?table=block&id=15d13d4d-bc12-80a5-b94e-f12770a97827&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+    ![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fc05a9b36-c445-48f0-bd9b-388d2f01556e%2Fimage.png?table=block&id=15d13d4d-bc12-80a5-b94e-f12770a97827&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
     
 - **Feature Importance Plots**: Identified the most influential features contributing to migration predictions.
     
-    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/71e32511-0256-4803-bd49-76d5a546ffcb/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F71e32511-0256-4803-bd49-76d5a546ffcb%2Fimage.png?table=block&id=15d13d4d-bc12-80e0-8b43-c0f3a0d89b22&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+    ![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F71e32511-0256-4803-bd49-76d5a546ffcb%2Fimage.png?table=block&id=15d13d4d-bc12-80e0-8b43-c0f3a0d89b22&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
     
 - **Prediction vs. Actual Comparison**: Visualized predicted vs. actual values to validate model accuracy.
     
-    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/f4938e3a-d1d5-4c9a-8d50-dfeea13a4e61/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Ff4938e3a-d1d5-4c9a-8d50-dfeea13a4e61%2Fimage.png?table=block&id=15d13d4d-bc12-8074-842a-eba67c5e8106&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+    ![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Ff4938e3a-d1d5-4c9a-8d50-dfeea13a4e61%2Fimage.png?table=block&id=15d13d4d-bc12-8074-842a-eba67c5e8106&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
     
 - **SHAP Summary Plot**: Explained individual feature contributions to model predictions.
     
-    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/7c06100c-c3f5-49f3-98a5-bb297117814c/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F7c06100c-c3f5-49f3-98a5-bb297117814c%2Fimage.png?table=block&id=15d13d4d-bc12-809c-afe3-f92f66e80161&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
+    ![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F7c06100c-c3f5-49f3-98a5-bb297117814c%2Fimage.png?table=block&id=15d13d4d-bc12-809c-afe3-f92f66e80161&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
     
 
 ---
@@ -520,7 +520,7 @@ By integrating **AI-driven predictions** and detailed analysis, this system serv
 
 ---
 
-![image.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/815d69b2-0253-4369-8b5d-daeb1a33aa0e/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F815d69b2-0253-4369-8b5d-daeb1a33aa0e%2Fimage.png?table=block&id=15d13d4d-bc12-8000-9570-c47bf11eea22&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
+![image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F815d69b2-0253-4369-8b5d-daeb1a33aa0e%2Fimage.png?table=block&id=15d13d4d-bc12-8000-9570-c47bf11eea22&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 ### **2.1 Model Overview**
 
