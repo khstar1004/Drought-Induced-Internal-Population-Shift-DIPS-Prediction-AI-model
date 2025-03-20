@@ -77,7 +77,7 @@ The primary objective of this study is to quantitatively analyze the interaction
 
 # ▣**Proposed Method**
 
-![](https://www.notion.so/Final-Project-Report-15113d4dbc1280c7b12cc07884cc40b8?pvs=4#15e13d4dbc1280ee9defce4dbed05048)
+![](https://file.notion.so/f/f/a362ae70-6156-41f3-82e1-2a94f15e740d/6696eabf-1b08-4106-81fd-dcb33180447c/image.png?table=block&id=15e13d4d-bc12-80ee-9def-ce4dbed05048&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&expirationTimestamp=1742500800000&signature=HPWjcWSpT-23GSh_6PhddSZP1a9D5PU-QeXUh1VMs_I&downloadName=image.png)
 
 The proposed method employs a **machine learning-based framework** to predict migration patterns, including **population changes**, **displacement duration**, and **migration routes**. Additionally, an **LLM-based report generation system** is integrated to analyze the predictions and deliver actionable insights. The system workflow includes **data preprocessing**, model optimization, and result visualization through an intuitive web platform.
 
