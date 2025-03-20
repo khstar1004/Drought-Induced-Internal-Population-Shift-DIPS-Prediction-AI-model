@@ -279,7 +279,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.1 Vulnerability Dashboard (Fig.1)**
 
-![vulnerability_dashboard.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/7b4fdadd-5167-4e1f-a143-d8692afc48af/vulnerability_dashboard.png)
+![vulnerability_dashboard.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F7b4fdadd-5167-4e1f-a143-d8692afc48af%2Fvulnerability_dashboard.png?table=block&id=87227198-f9ee-4bf2-ad74-808662d70a3c&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2)
 
 - **Visuals**: Pie charts, bar graphs, histograms.
 - **Key Insights**:
@@ -292,7 +292,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.2 Temporal Analysis Dashboard (Fig.2)**
 
-![temporal_analysis.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/26b6f22a-5f16-4f25-9818-2da4599a1bfc/temporal_analysis.png)
+![temporal_analysis.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/26b6f22a-5f16-4f25-9818-2da4599a1bfc/temporal_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F26b6f22a-5f16-4f25-9818-2da4599a1bfc%2Ftemporal_analysis.png?table=block&id=e87c5462-3d4d-430c-9ff7-4e231346710b&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
 
 - **Visuals**: Line graphs, bar charts, temporal histograms.
 - **Key Insights**:
@@ -306,7 +306,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.3 Resilience Analysis Dashboard (Fig.3)**
 
-![resilience_analysis.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/90a72115-94b6-46b2-9aa9-3c48daf020a4/resilience_analysis.png)
+![resilience_analysis.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/90a72115-94b6-46b2-9aa9-3c48daf020a4/resilience_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F90a72115-94b6-46b2-9aa9-3c48daf020a4%2Fresilience_analysis.png?table=block&id=eee9d8b7-587b-425a-a47c-3dd276ae04c8&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
 
 - **Visuals**: Radar charts, boxplots, and gauge charts.
 - **Key Insights**:
@@ -319,7 +319,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.4 Geographical Analysis Dashboard (Fig.4)**
 
-![geographical_analysis.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/3017f2c6-43f8-4c8c-8c8a-99e0d5bccbc6/geographical_analysis.png)
+![geographical_analysis.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/3017f2c6-43f8-4c8c-8c8a-99e0d5bccbc6/geographical_analysis.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F3017f2c6-43f8-4c8c-8c8a-99e0d5bccbc6%2Fgeographical_analysis.png?table=block&id=2552277f-9d6c-4328-91c8-7300fabcc915&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
 
 - **Visuals**: Geospatial maps and vulnerability indices.
 - **Key Insights**:
@@ -337,7 +337,7 @@ To ensure interpretability, the dataset was visualized through **five interactiv
 
 ### **3.5 Migration Flow Map (Fig.5)**
 
-![Expected_migration_path.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/b03ce0c9-f449-45e4-8729-c913b8064a3f/Expected_migration_path.png)
+![Expected_migration_path.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/b03ce0c9-f449-45e4-8729-c913b8064a3f/Expected_migration_path.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fb03ce0c9-f449-45e4-8729-c913b8064a3f%2FExpected_migration_path.png?table=block&id=6aba1bd1-c4d3-4192-9b9e-50c6a1948b1c&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
 
 - **Visuals**: Flow maps with curves and markers.
 - **Key Insights**:
@@ -369,7 +369,7 @@ These settings provided a **strong foundation** for training machine learning mo
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/6f56a4af-6ff1-4e2d-a1d2-99a8ee46393b/image.png)
+![image.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/6f56a4af-6ff1-4e2d-a1d2-99a8ee46393b/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F6f56a4af-6ff1-4e2d-a1d2-99a8ee46393b%2Fimage.png?table=block&id=15d13d4d-bc12-80d5-a4d2-c4153bab16ab&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
 
 ### **1.1 Purpose of the Model**
 
@@ -483,19 +483,19 @@ To assess the model's predictive performance, we employed the following metrics:
 
 - **Learning Curves**: Evaluated the model's generalization performance over training iterations.
     
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/c05a9b36-c445-48f0-bd9b-388d2f01556e/image.png)
+    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/c05a9b36-c445-48f0-bd9b-388d2f01556e/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fc05a9b36-c445-48f0-bd9b-388d2f01556e%2Fimage.png?table=block&id=15d13d4d-bc12-80a5-b94e-f12770a97827&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
     
 - **Feature Importance Plots**: Identified the most influential features contributing to migration predictions.
     
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/71e32511-0256-4803-bd49-76d5a546ffcb/image.png)
+    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/71e32511-0256-4803-bd49-76d5a546ffcb/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F71e32511-0256-4803-bd49-76d5a546ffcb%2Fimage.png?table=block&id=15d13d4d-bc12-80e0-8b43-c0f3a0d89b22&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
     
 - **Prediction vs. Actual Comparison**: Visualized predicted vs. actual values to validate model accuracy.
     
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/f4938e3a-d1d5-4c9a-8d50-dfeea13a4e61/image.png)
+    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/f4938e3a-d1d5-4c9a-8d50-dfeea13a4e61/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Ff4938e3a-d1d5-4c9a-8d50-dfeea13a4e61%2Fimage.png?table=block&id=15d13d4d-bc12-8074-842a-eba67c5e8106&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
     
 - **SHAP Summary Plot**: Explained individual feature contributions to model predictions.
     
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/7c06100c-c3f5-49f3-98a5-bb297117814c/image.png)
+    ![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/7c06100c-c3f5-49f3-98a5-bb297117814c/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F7c06100c-c3f5-49f3-98a5-bb297117814c%2Fimage.png?table=block&id=15d13d4d-bc12-809c-afe3-f92f66e80161&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
     
 
 ---
@@ -520,7 +520,7 @@ By integrating **AI-driven predictions** and detailed analysis, this system serv
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/815d69b2-0253-4369-8b5d-daeb1a33aa0e/image.png)
+![image.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/815d69b2-0253-4369-8b5d-daeb1a33aa0e/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F815d69b2-0253-4369-8b5d-daeb1a33aa0e%2Fimage.png?table=block&id=15d13d4d-bc12-8000-9570-c47bf11eea22&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=1420&userId=&cache=v2))
 
 ### **2.1 Model Overview**
 
@@ -581,11 +581,11 @@ Migration probabilities are adjusted using **distance-based decay functions** to
 
 - **Methodology**: Euclidean distances between the origin and destination regions are calculated.
     
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/12215f89-fd03-47bf-b892-c6696c538b71/image.png)
+    ![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F12215f89-fd03-47bf-b892-c6696c538b71%2Fimage.png?table=block&id=15d13d4d-bc12-8080-826f-d4949a401ecc&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
     
 - Probabilities are then applied to scale the predicted migration volume.
     
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/4bf513af-9c83-4d5e-bcd6-a5c2ce958e2c/image.png)
+    ![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F4bf513af-9c83-4d5e-bcd6-a5c2ce958e2c%2Fimage.png?table=block&id=15d13d4d-bc12-8047-ac46-d6940bd36aa8&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
     
 
 ---
@@ -605,7 +605,7 @@ The model was tested using two sample origins (**ET0404** and **ET0402**) to eva
 
 Migration routes from ET0404 were visualized to highlight movement patterns:
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/6846b721-c93c-4599-8edb-65aafd5b368d/image.png)
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F6846b721-c93c-4599-8edb-65aafd5b368d%2Fimage.png?table=block&id=15d13d4d-bc12-80b0-a1df-ca8d05b1e4cb&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 ---
 
@@ -620,7 +620,7 @@ Migration routes from ET0404 were visualized to highlight movement patterns:
 
 Migration routes from ET0402 were mapped for better interpretation:
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/a9c57fbb-563a-4025-8339-c7ee1697823b/image.png)
+![](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fa9c57fbb-563a-4025-8339-c7ee1697823b%2Fimage.png?table=block&id=15d13d4d-bc12-80e7-bb6e-ca41f4c9d524&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2)
 
 ---
 
@@ -637,7 +637,7 @@ The migration route prediction model combines **RandomForestRegressor** with a *
 
 ---
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/cbfe783d-9f04-4a24-a63e-37982cef71eb/image.png)
+![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/cbfe783d-9f04-4a24-a63e-37982cef71eb/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fcbfe783d-9f04-4a24-a63e-37982cef71eb%2Fimage.png?table=block&id=15e13d4d-bc12-8064-b797-d19f3ab14855&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
 
 ### **3.1 System Overview**
 
@@ -687,13 +687,13 @@ The project includes a robust **web platform** designed to enhance user interact
 
 **Demo Link**: https://dips-2.replit.app/
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/ffeb749d-65d1-4dad-a210-22dec1037522/image.png)
+![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/ffeb749d-65d1-4dad-a210-22dec1037522/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2Fffeb749d-65d1-4dad-a210-22dec1037522%2Fimage.png?table=block&id=15e13d4d-bc12-8028-84fe-df64de5f188f&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/9e929c5d-7767-4d21-9b11-207bdceb5ae3/image.png)
+![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/9e929c5d-7767-4d21-9b11-207bdceb5ae3/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F9e929c5d-7767-4d21-9b11-207bdceb5ae3%2Fimage.png?table=block&id=15e13d4d-bc12-8020-a000-c23edf5b05b3&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/5996eb9c-a54c-4c07-9f02-82c04c6d51b5/image.png)
+![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/5996eb9c-a54c-4c07-9f02-82c04c6d51b5/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F5996eb9c-a54c-4c07-9f02-82c04c6d51b5%2Fimage.png?table=block&id=15e13d4d-bc12-802e-b64b-ca00cf312d2e&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/0a9eadd4-afa9-4e81-a099-71f54b16e153/image.png)
+![]([https://prod-files-secure.s3.us-west-2.amazonaws.com/a362ae70-6156-41f3-82e1-2a94f15e740d/0a9eadd4-afa9-4e81-a099-71f54b16e153/image.png](https://bevel-brie-683.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa362ae70-6156-41f3-82e1-2a94f15e740d%2F0a9eadd4-afa9-4e81-a099-71f54b16e153%2Fimage.png?table=block&id=15e13d4d-bc12-8005-87ad-eb3ec2455de9&spaceId=a362ae70-6156-41f3-82e1-2a94f15e740d&width=2000&userId=&cache=v2))
 
 The web platform offers intuitive **visualization tools** to maximize user experience and accessibility.
 
