@@ -1,0 +1,72 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Somalia,SOM,2017,"Compulsory education, duration (years)",SE.COM.DURS,8
+Somalia,SOM,2017,"Preprimary education, duration (years)",SE.PRE.DURS,3
+Somalia,SOM,2017,Primary school starting age (years),SE.PRM.AGES,6
+Somalia,SOM,2017,"Primary education, duration (years)",SE.PRM.DURS,4
+Somalia,SOM,2017,"Primary education, pupils",SE.PRM.ENRL,464607
+Somalia,SOM,2017,"School enrollment, primary (% gross)",SE.PRM.ENRR,21.19832993
+Somalia,SOM,2017,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,19.23847961
+Somalia,SOM,2017,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,23.10474968
+Somalia,SOM,2017,"School enrollment, primary, private (% of total primary)",SE.PRM.PRIV.ZS,56.53293991
+Somalia,SOM,2017,Lower secondary school starting age (years),SE.SEC.AGES,10
+Somalia,SOM,2017,"Secondary education, duration (years)",SE.SEC.DURS,8
+Somalia,SOM,2017,"Secondary education, pupils",SE.SEC.ENRL,115828
+Somalia,SOM,2017,"School enrollment, secondary (% gross)",SE.SEC.ENRR,3.293809891
+Somalia,SOM,2017,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2.712690115
+Somalia,SOM,2017,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,3.860209942
+Somalia,SOM,2017,"School enrollment, secondary, private (% of total secondary)",SE.SEC.PRIV.ZS,79.18811035
+Somalia,SOM,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,31.25219728
+Somalia,SOM,2017,"Labor force, total",SL.TLF.TOTL.IN,3276784
+Somalia,SOM,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,24.693
+Somalia,SOM,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,16.451
+Somalia,SOM,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.027
+Somalia,SOM,2017,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,47.05374746
+Somalia,SOM,2017,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,50.39303182
+Somalia,SOM,2017,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,65
+Somalia,SOM,2017,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Somalia,SOM,2017,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,76
+Somalia,SOM,2017,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,71
+Somalia,SOM,2017,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,44
+Somalia,SOM,2017,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,65
+Somalia,SOM,2017,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,54
+Somalia,SOM,2017,"Compulsory education, duration (years)",SE.COM.DURS,8
+Somalia,SOM,2017,"Preprimary education, duration (years)",SE.PRE.DURS,3
+Somalia,SOM,2017,"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS,40.57052231
+Somalia,SOM,2017,"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS,33.8028183
+Somalia,SOM,2017,Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS,39.32729721
+Somalia,SOM,2017,Primary school starting age (years),SE.PRM.AGES,6
+Somalia,SOM,2017,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,7.210000038
+Somalia,SOM,2017,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,23.79999924
+Somalia,SOM,2017,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,15.5
+Somalia,SOM,2017,"Primary education, duration (years)",SE.PRM.DURS,6
+Somalia,SOM,2017,Lower secondary school starting age (years),SE.SEC.AGES,12
+Somalia,SOM,2017,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,4.449999809
+Somalia,SOM,2017,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,17.78000069
+Somalia,SOM,2017,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,11.10999966
+Somalia,SOM,2017,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS,3.630000114
+Somalia,SOM,2017,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS,15.97999954
+Somalia,SOM,2017,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,9.81000042
+Somalia,SOM,2017,"Secondary education, duration (years)",SE.SEC.DURS,6
+Somalia,SOM,2017,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,1.440000057
+Somalia,SOM,2017,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,7.110000134
+Somalia,SOM,2017,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,4.269999981
+Somalia,SOM,2017,Number of deaths ages 5-9 years,SH.DTH.0509,8217
+Somalia,SOM,2017,Number of deaths ages 10-14 years,SH.DTH.1014,4046
+Somalia,SOM,2017,Number of deaths ages 15-19 years,SH.DTH.1519,6829
+Somalia,SOM,2017,Number of deaths ages 20-24 years,SH.DTH.2024,8815
+Somalia,SOM,2017,"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509,14.8
+Somalia,SOM,2017,"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014,8.8
+Somalia,SOM,2017,"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519,17.7
+Somalia,SOM,2017,"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024,27.3
+Somalia,SOM,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,31.20571905
+Somalia,SOM,2017,"Labor force, total",SL.TLF.TOTL.IN,3163183
+Somalia,SOM,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,24.826
+Somalia,SOM,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,16.544
+Somalia,SOM,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.128
+Somalia,SOM,2017,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,47.16447968
+Somalia,SOM,2017,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,50.26551198
+Somalia,SOM,2017,"Number of infant deaths, female",SH.DTH.IMRT.FE,22601
+Somalia,SOM,2017,"Number of infant deaths, male",SH.DTH.IMRT.MA,27887
+Somalia,SOM,2017,"Number of under-five deaths, female",SH.DTH.MORT.FE,35637
+Somalia,SOM,2017,"Number of under-five deaths, male",SH.DTH.MORT.MA,41800
